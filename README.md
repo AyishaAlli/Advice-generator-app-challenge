@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile version of app](./mobile.png)
+![mobile version of app](../advice-generator-app/images/mobile.png)
 
 ### Links
 
